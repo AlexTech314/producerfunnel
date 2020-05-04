@@ -1,0 +1,26 @@
+{
+  "name": "producerfunnel",
+  "version": "1.0.0",
+  "description": "A click funnel for selling beats, didn't want to pay the $100/month on clickfunnels.com so I made my own.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexTech314/producerfunnel.git"
+  },
+  "author": "Alex Stepansky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexTech314/producerfunnel/issues"
+  },
+  "homepage": "https://github.com/AlexTech314/producerfunnel#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "graphql-yoga": "^1.18.3",
+    "mongodb": "^3.5.7",
+    "mongoose": "^5.9.11",
+    "node": "^14.0.0"
+  }
+}
